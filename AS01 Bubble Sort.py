@@ -1,4 +1,3 @@
-#AS01 Bubble Sort
 numbers = []
 sorted = 0
 temp1 = 0
@@ -12,6 +11,7 @@ for i in range(numamount):
     numin = input() #accepts an input from the user
     numbers.append(numin) #adds the inputted number to the end of the list
 #print(numbers)
+#start of actual code
 while sorted == 0:
     for x in range(numamount-1):
         for i in range(numamount-1):
@@ -27,6 +27,7 @@ while sorted == 0:
                 numbers[pos] = temp1
                 numbers[pos+1] = temp2
             pos = pos+1
+            sorts = sorts+1
         pos = 0
     sorted = 1
-    print('numbers after sort',numbers)
+    print('numbers after sort',numbers,'in ',sorts,'sorts')
