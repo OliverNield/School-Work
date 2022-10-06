@@ -2,11 +2,11 @@
 #leaving them as 'Math Program Output.txt' and 'Math Program Input.txt' respectivly will also work :)
 import random
 numbers = []
-sortednum = [1,2,3]
+sortednum = []
 exiting = 0
 programinfo = 'Welcome to my program, heres what it can do!\n1. Clear output file\n2. Load data from file and solve in console (Syntax!)\n3. Generate random numbers in console\n4. Generate random numbers and store in output file\n5. EXIT\nPlease input the number your number'
-WDir = '/Users/ramboozle/Library/Mobile Documents/com~apple~CloudDocs/Python/School Work/Things used for code/Math Program/Math Program Output.txt'
-RDir = '/Users/ramboozle/Library/Mobile Documents/com~apple~CloudDocs/Python/School Work/Things used for code/Math Program/Math Program Input.txt'
+WDir = '/Users/ramboozle/Library/Mobile Documents/com~apple~CloudDocs/Coding/School Work/Things used for code/Math Program/Math Program Output.txt'
+RDir = '/Users/ramboozle/Library/Mobile Documents/com~apple~CloudDocs/Coding/School Work/Things used for code/Math Program/Math Program Input.txt'
 def numinput(numlen):
     gennumbers = []
     for i in range(numlen):
@@ -73,7 +73,7 @@ def Str_List(Input):
 print(programinfo)
 while exiting != 1:
     userinput = int(input())
-    if userinput in [1,2,3,4,5,6]:
+    if userinput in [1,2,3,4,5]:
         if userinput !=5:
             if userinput == 1:
                 FileClear()
@@ -97,4 +97,4 @@ while exiting != 1:
         else:
             exiting = 1
     else:
-        print('Invalid input. Remeber to just use numbers by themselves :)')
+        print('Invalid input. Remember to just use numbers by themselves :)')
