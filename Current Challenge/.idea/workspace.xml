@@ -5,11 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f48244d4-20de-4679-9bca-bece155fc103" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A203 Insertion Sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A266 Big O Display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS01 Bubble Sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS02 Linear Search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS37 Rövarspråket Translator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS57.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS75.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS78 clear screen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS78 emotions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS80.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AS82 StringReverse.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Math Bubble Sort Revision.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Things used for code/Math Program/Math Program Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Things used for code/Math Program/Math Program Output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monster Dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Older stuff/TU10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TU14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TU16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Timer Tutorial (TU22).py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

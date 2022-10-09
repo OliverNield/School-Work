@@ -1,16 +1,22 @@
-#TU10
-import random
-Choose_Name = ["James","John","Mark","Rick"]
-for i in range(3):
-    chosen = int(random.randint(0,len(Choose_Name)-1))
-    name = Choose_Name[chosen]
-    print(name)
-    keep = input('do you want to keep? y/n')
-    if keep == 'n':
-        print('removing')
-        Choose_Name.remove(name)
-    elif keep == 'y':
-        print('keeping')
-    else:
-        print('invalid input')
-print(Choose_Name)
+#TU17
+stringtocheck = input("Input the number to check (with the checksum in the end): ")
+checksumtocheck = int(stringtocheck[len(stringtocheck)-1])
+multiplier = len(stringtocheck)
+total = 0
+
+for i in range(len(stringtocheck)-1):
+        num = int(stringtocheck[i])
+        total = total + (num*multiplier)
+        multiplier = multiplier - 1
+
+remainder = total%11
+finalchecksum = 11 - remainder
+
+if checksumtocheck == finalchecksum:
+    result = "Yes"
+else:
+    result = "No"
+
+print("Checksum given: " + str(checksumtocheck))
+print("Checksum calculated: " + str(finalchecksum))
+print("Check pass? " + str(result))
