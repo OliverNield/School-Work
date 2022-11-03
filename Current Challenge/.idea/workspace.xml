@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f48244d4-20de-4679-9bca-bece155fc103" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/A2/A203 Insertion Sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/A2/A266 Big O Display.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/A206 Classes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS01 Bubble Sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS02 Linear Search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS37 Rövarspråket Translator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS57.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS75.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS78 clear screen.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS78 emotions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS80.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/AS82 StringReverse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A-Level Challenge/AS/EX04 Morse Code Converter.py" beforeDir="false" />
+    <list default="true" id="c11e4c26-5bf5-4b39-b68e-6cb8161133f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main backup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,61 +19,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FFv5l4Ig1XX50xpQKkpPNEboo3" />
+  <component name="ProjectId" id="2H190PyiYU3sGvdzId0IbtajFN5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager" selected="Python.Hang man">
-    <configuration name="Hang man" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Current Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hang man.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Current Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tester.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Current Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -110,23 +60,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Hang man" />
-        <item itemvalue="Python.Tester" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f48244d4-20de-4679-9bca-bece155fc103" name="Changes" comment="" />
-      <created>1664100466605</created>
+      <changelist id="c11e4c26-5bf5-4b39-b68e-6cb8161133f6" name="Changes" comment="" />
+      <created>1667441499364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664100466605</updated>
+      <updated>1667441499364</updated>
+      <workItem from="1667441501036" duration="1000" />
+      <workItem from="1667441582152" duration="623000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -138,21 +87,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Math Program.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Math Program.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
